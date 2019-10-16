@@ -1,0 +1,29 @@
+/*!
+ * Set the number of columns you want to use on your layout.
+ */
+$grid-columns: 12;
+
+/*!
+ * Set the gutter between columns.
+ */
+$gutter-width: 1rem;
+
+/*!
+ * Set a margin for the container sides.
+ */
+$outer-margin: 1rem;
+
+/*!
+ * Max Wrapper width (100% for full-width, default is 1200px)
+ */
+$max-width: 100%;
+
+/*!
+ * Fix the user-agent 8px addition to the margin (used for full width container/wrapper)
+ */
+$body-fix: 0;
+
+/*!
+ * Import grid after we have commited our customization
+ */
+@import "_grid";
