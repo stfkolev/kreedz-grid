@@ -4,7 +4,7 @@ This is a SASS/SCSS grid system with fully customization set in mind.
 
 Customization
 --------
-To modify the Flexbox grid, declare the following variables on your layout .scss
+To modify the grid, declare the following variables on your layout.scss
 
 #### Fix the user-agent 8px addition to the margin (used for full width container/wrapper) -- can be customized by you
 `$body-fix: 0;`
